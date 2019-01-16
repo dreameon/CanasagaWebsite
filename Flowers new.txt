@@ -1,0 +1,144 @@
+<body>
+	<div class="header">
+		<div id="title" align="left" OnClick="index.html">
+			<a href="index.html"> CanaSaga </a>
+			<div class="subtitle">
+			- Healthy and Tasty Tea
+			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" align="right" vertical-align="middle">
+					<button	OnClick="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" id="cart" alt="PayPal - The safer, easier way to pay online!">
+					View Cart
+					</button>
+				</form>
+			</div>
+		</div>
+		<div class="menuBar" align="center">
+			<a href="tea.html" style="color:#ffffff; text-decoration:none;">
+			Why Tea 
+			</a>																
+																										
+			<a href="recipes.html" style="color:#ffffff; text-decoration: none">
+			Our Recipes
+			</a>
+																											
+			<a href="plan.html" style="color:#ffffff; text-decoration: none">
+			Our Plan
+			</a>
+		</div>
+	</div>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="table9">
+		<tr>
+			<td align="center" width="75">&nbsp;</td>
+			<td align="center">						
+			&nbsp;</td>
+			<td align="center" width="75">&nbsp;</td>
+		</tr>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td rowspan="10" >
+					<div class="productImage">
+						<img border="0" src="Pu%20Erh%20Plus.png" width="500" height="500">
+					</div>
+				</td>
+				<td>
+					<div id="product">
+					Pu Erh Plus
+					</div>
+				</td>
+			</tr>
+			<tr bgcolor="#b8b8b8">
+				<td>
+					<div class="information">
+						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+							<font face="Comic Sans MS">
+								<input type="hidden" name="cmd" value="_s-xclick">
+								<input type="hidden" name="hosted_button_id" value="K6LSPLQSD9AA2">
+							</font>
+							<table>
+								<tr>
+									<td><font face="Comic Sans MS"><input type="hidden" name="on0" value="Weight">
+									</font>
+									<p align="center"><div class="info sub">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weight</div></td>
+								</tr>
+								<tr>
+									<td>
+										<select name="os0">
+											<option value="50 g">50 g $8.99 CAD</option>
+											<option value="200 g">200 g $35.96 CAD</option>
+											<option value="450 g">450 g $80.91 CAD</option>
+										</select>
+									</td>
+								</tr>
+							</table>
+							<div class="container">
+								<button id="paypalCart" onClick="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif">
+								&nbsp;&nbsp;Add&nbsp;to&nbsp;cart&nbsp;&nbsp;
+								</button>
+							</div>
+						</form>
+					</div>
+				</td>
+			</tr>
+			<tr bgcolor="#b8b8b8" border="0">
+				<td>
+					<div class="instruct">
+						<h1>
+						Ingredients:
+						</h1>
+						<p>
+						Organic 
+						tangerine peel, pu erh, lime and 
+						cinnamon.
+						</p>
+					</div>
+				</td>
+			</tr>
+			<tr bgcolor="#b8b8b8">>
+				<td>
+					<div class="instruct">
+						<h1>
+						Directions: 
+						</h1>
+						<p>
+						Put 
+						half to 1 teaspoon of tea into a 
+						pot of 500 ml (17 oz) of cold or hot water (up to 90 
+						&#8451; or 194 &#8457;), steep for 3 minutes or more.
+						</p>
+					</div>
+				</td>
+			</tr>				
+		</table>		
+		<table width="100%">
+		<tr>
+				<td align="center" width="75">&nbsp;</td>
+				<td align="center">
+				&nbsp;</td>
+				<td align="center" width="75">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" width="75">&nbsp;</td>
+				<td align="center">
+					<i>
+						<div class="description">
+						More healthy tea coming soon!</div>
+					</i>
+				</td>
+				<td align="center" width="75">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" width="75">&nbsp;</td>
+				<td align="center">
+					<p align="center">
+					<font size="2" face="Syncopate" color="#808080">© CanaSaga, </font>
+					<font size="2" face="Cinzel Decorative" color="#808080">All Rights 
+					Reserved.</font>
+				</td>
+				<td align="center" width="75">&nbsp;</td>
+			</tr>
+		</table>
+	</table>
+									
+		
+
+  
+</body>
